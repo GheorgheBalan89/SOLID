@@ -1,0 +1,13 @@
+C:\Projects\SOLID\2.Open Close\bin\Debug\netcoreapp3.1\2.Open Closed.exe
+C:\Projects\SOLID\2.Open Close\bin\Debug\netcoreapp3.1\2.Open Closed.deps.json
+C:\Projects\SOLID\2.Open Close\bin\Debug\netcoreapp3.1\2.Open Closed.runtimeconfig.json
+C:\Projects\SOLID\2.Open Close\bin\Debug\netcoreapp3.1\2.Open Closed.runtimeconfig.dev.json
+C:\Projects\SOLID\2.Open Close\bin\Debug\netcoreapp3.1\2.Open Closed.dll
+C:\Projects\SOLID\2.Open Close\bin\Debug\netcoreapp3.1\2.Open Closed.pdb
+C:\Projects\SOLID\2.Open Close\obj\Debug\netcoreapp3.1\2.Open Closed.csprojAssemblyReference.cache
+C:\Projects\SOLID\2.Open Close\obj\Debug\netcoreapp3.1\2.Open Closed.AssemblyInfoInputs.cache
+C:\Projects\SOLID\2.Open Close\obj\Debug\netcoreapp3.1\2.Open Closed.AssemblyInfo.cs
+C:\Projects\SOLID\2.Open Close\obj\Debug\netcoreapp3.1\2.Open Closed.csproj.CoreCompileInputs.cache
+C:\Projects\SOLID\2.Open Close\obj\Debug\netcoreapp3.1\2.Open Closed.dll
+C:\Projects\SOLID\2.Open Close\obj\Debug\netcoreapp3.1\2.Open Closed.pdb
+C:\Projects\SOLID\2.Open Close\obj\Debug\netcoreapp3.1\2.Open Closed.genruntimeconfig.cache

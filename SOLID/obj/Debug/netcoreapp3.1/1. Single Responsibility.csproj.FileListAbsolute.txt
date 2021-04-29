@@ -1,0 +1,13 @@
+C:\Projects\SOLID\SOLID\bin\Debug\netcoreapp3.1\1. Single Responsibility.exe
+C:\Projects\SOLID\SOLID\bin\Debug\netcoreapp3.1\1. Single Responsibility.deps.json
+C:\Projects\SOLID\SOLID\bin\Debug\netcoreapp3.1\1. Single Responsibility.runtimeconfig.json
+C:\Projects\SOLID\SOLID\bin\Debug\netcoreapp3.1\1. Single Responsibility.runtimeconfig.dev.json
+C:\Projects\SOLID\SOLID\bin\Debug\netcoreapp3.1\1. Single Responsibility.dll
+C:\Projects\SOLID\SOLID\bin\Debug\netcoreapp3.1\1. Single Responsibility.pdb
+C:\Projects\SOLID\SOLID\obj\Debug\netcoreapp3.1\1. Single Responsibility.csprojAssemblyReference.cache
+C:\Projects\SOLID\SOLID\obj\Debug\netcoreapp3.1\1. Single Responsibility.AssemblyInfoInputs.cache
+C:\Projects\SOLID\SOLID\obj\Debug\netcoreapp3.1\1. Single Responsibility.AssemblyInfo.cs
+C:\Projects\SOLID\SOLID\obj\Debug\netcoreapp3.1\1. Single Responsibility.csproj.CoreCompileInputs.cache
+C:\Projects\SOLID\SOLID\obj\Debug\netcoreapp3.1\1. Single Responsibility.dll
+C:\Projects\SOLID\SOLID\obj\Debug\netcoreapp3.1\1. Single Responsibility.pdb
+C:\Projects\SOLID\SOLID\obj\Debug\netcoreapp3.1\1. Single Responsibility.genruntimeconfig.cache
